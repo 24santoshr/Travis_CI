@@ -6,9 +6,6 @@ object myfirstexample {
 
   def main(args: Array[String]): Unit = {
 
-
-
-
     val a=3
     val b=4
     val add= (a+b)
