@@ -17,7 +17,6 @@ object myfirstexample {
     println("The current time in China is")
 
     println("hello world")
-
     //val tm=getTimeInstance();
     println(add)
   }
